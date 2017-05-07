@@ -1,4 +1,6 @@
-            
+	    - ** Nothing but trying to explore optimization -2
+
+
             - ** Release 0.6.0 (skipping 0.5.8 and 0.5.9 ) Apr. 21th 2017 **
                - Adding WooCommerce 3.0.0 support - Big thx @typeplus
                - Add npm-debug.log to .gitignore file - thx @OussamaElgoumri
